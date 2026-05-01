@@ -1,0 +1,31 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "The Process"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+description = "A cage in search of a bird"
+dateFormat = "1 May 2026"
+logo = ""
+copyright = "This work is licensed under CC BY 4.0"
+
+  [params.author]
+  image = "img/avatar.png"
+
+    [[params.author.links]]
+    envelope = "mailto:syedsubehsadiksholok@gmail.com"
+
+    [[params.author.links]]
+    github = "https://github.com/josef-ami/"
+
+    [[params.author.links]]
+    phone = "tel:+8801739294807"
+
+["params.author"]
+name = "The Process"
+email = "syedsubehsadiksholok@gmail.com"
+headline = "A cage in search of a bird"
+bio = "A cage in search of a bird"
