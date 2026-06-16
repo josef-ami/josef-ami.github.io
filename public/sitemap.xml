@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2026-05-01T23:55:25+06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/blog/auldlangsyne/</loc>
+    <loc>/blog/auldlangsyne/</loc>
     <lastmod>2026-05-01T23:55:25+06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/lore/</loc>
+    <loc>/tags/lore/</loc>
     <lastmod>2026-05-01T23:55:25+06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2026-05-01T23:55:25+06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2022-06-13T20:55:37+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/</loc>
+    <loc>/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/series/</loc>
+    <loc>/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
